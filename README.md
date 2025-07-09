@@ -1,6 +1,6 @@
 👋 Hi, I'm Pierre,  
 🤖 I build data pipelines and visualizations!  
-🏙 I am currently part of Telus' data journey  
-💻 Working with lots of tools: Python, SQL, Power BI, Tableau, GCP, Looker, Knime, Domo, etc.  
+🏙 I am currently part of Electronic Arts' data journey  
+💻 Working with lots of tools and platforms and code of course!
   
 📧 Let's connect on [LinkedIn](https://www.linkedin.com/in/pierremarionneau/)
